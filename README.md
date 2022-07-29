@@ -1,16 +1,28 @@
-# Flutter FFI example
+# Secure Bank
 
-A new Flutter application.
+Virtual banking system built with flutter framework with: 
+▶️ Realtime virtual currency transactions
 
-## Getting Started
+▶️ Transaction history
 
-This project is a starting point for a Flutter application.
+▶️ 2-factor authentication
 
-A few resources to get you started if this is your first Flutter project:
+▶️ Email notifications
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+▶️ Account management
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Android: 5.0+
+
+- version: 3.0.2
+
+## Framework and API's
+Language: `dart`
+
+This application was built using the `flutter` framework. All the APIs which are used in the app are made from PHP language using a public-domain-server to communicate with the application as a backend and all data was managed by PHPMyAdmin database.
+
+## Website
+To know more visit [Product page](https://securebnk950.000webhostapp.com/android/app.html)
+
+## Screenshot
+![Login page](https://github.com/MIDHUN950/Secure_Bank/blob/main/login.png)
+
