@@ -1,0 +1,7 @@
+# ninja log v5
+1	194	0	CMakeFiles/api_util.dir/C_/Users/Midhun/Documents/Flutter_Git_projects/flutter_ffi_example-master/ios/Classes/api_util.cpp.o	8511d43852acd6b7
+195	456	0	C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/build/app/intermediates/cmake/debug/obj/arm64-v8a/libapi_util.so	16a609cbf138b6d8
+3	168	0	C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/build/app/intermediates/cmake/debug/obj/arm64-v8a/libapi_util.so	16a609cbf138b6d8
+2	146	0	C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/build/app/intermediates/cmake/debug/obj/arm64-v8a/libapi_util.so	16a609cbf138b6d8
+7	733	0	CMakeFiles/api_util.dir/C_/Users/Midhun/Documents/Flutter_Git_projects/flutter_ffi_example-master/ios/Classes/api_util.cpp.o	8511d43852acd6b7
+734	1540	0	C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/build/app/intermediates/cmake/debug/obj/arm64-v8a/libapi_util.so	16a609cbf138b6d8

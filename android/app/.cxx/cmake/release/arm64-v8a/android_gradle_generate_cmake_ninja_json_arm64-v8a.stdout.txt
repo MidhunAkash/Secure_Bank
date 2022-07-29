@@ -1,0 +1,5 @@
+-- Check for working C compiler: C:/Users/Midhun/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- Check for working C compiler: C:/Users/Midhun/AppData/Local/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- broken
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/android/app/.cxx/cmake/release/arm64-v8a/CMakeFiles/CMakeError.log".

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Midhun\\Documents\\Flutter Git projects\\flutter_ffi_example-master\\android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Midhun\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Midhun\\Documents\\Flutter Git projects\\flutter_ffi_example-master\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "api_util-Debug-armeabi-v7a": {
+      "artifactName": "api_util",
+      "buildCommand": "C:\\Users\\Midhun\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Midhun\\Documents\\Flutter Git projects\\flutter_ffi_example-master\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target api_util",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\Midhun\\Documents\\Flutter Git projects\\flutter_ffi_example-master\\build\\app\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libapi_util.so"
+    }
+  }
+}

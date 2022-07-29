@@ -1,6 +1,6 @@
-# Flutter FFI example
+# native_add_example
 
-A new Flutter application.
+Demonstrates how to use the native_add plugin.
 
 ## Getting Started
 

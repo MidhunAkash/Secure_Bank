@@ -1,0 +1,8 @@
+Executable : C:\Users\Midhun\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Users\Midhun\Documents\Flutter Git projects\flutter_ffi_example-master\android\app\.cxx\cmake\debug\x86_64
+--target
+api_util
+jvmArgs : 
+

@@ -1,0 +1,3 @@
+C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/api_util.dir
+C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Midhun/Documents/Flutter Git projects/flutter_ffi_example-master/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

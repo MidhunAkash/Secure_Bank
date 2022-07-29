@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669698210801",
+    "project_id": "bank-1517c",
+    "storage_bucket": "bank-1517c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669698210801:android:480bcf8e3ac3cdab326250",
+        "android_client_info": {
+          "package_name": "com.midhun.flutter_native_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669698210801-lflp79pt1upg58427nlitminhn1keg3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.midhun.flutter_native_code",
+            "certificate_hash": "9dbe8df3271687c87cb43298956196418fbaa89f"
+          }
+        },
+        {
+          "client_id": "669698210801-2t4vheb041ohdgcmmqrteid5secf9as9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7MFnuOM1GwCW5bIf1LI1cQUd4JX9MYUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669698210801-2t4vheb041ohdgcmmqrteid5secf9as9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
